@@ -108,8 +108,8 @@ Check out the [minutes tutorial](https://nbviewer.ipython.org/github/gerrymanoim
 <!--TODO CHECK ALL LINKS HERE WORKING...-->
 [sessions.ipynb](https://nbviewer.ipython.org/github/gerrymanoim/exchange_calendars/blob/159f1721bd860c14278e79bd6903ac627af3eabf/docs/tutorials/sessions.ipynb) - all things [sessions](#Working-with-sessions).  
 [minutes.ipynb](https://nbviewer.ipython.org/github/gerrymanoim/exchange_calendars/blob/159f1721bd860c14278e79bd6903ac627af3eabf/docs/tutorials/minutes.ipynb) - all things [minutes](#Working-with-minutes). Don't miss this one!  
-[calendar_properties.ipynb](docs/tutorials/calendar_properties.ipynb) - a walk through the schedule and all other calendar properties.  
-[calendar_methods.ipynb](docs/tutorials/calendar_methods.ipynb) - a walk through all the methods available to interrogate a calendar.
+[calendar_properties.ipynb](https://nbviewer.ipython.org/github/gerrymanoim/exchange_calendars/blob/ffeca7f01e95f9e09ce98344d053ec25bead105a/docs/tutorials/calendar_properties.ipynb) - a walk through the schedule and all other calendar properties.  
+[calendar_methods.ipynb](https://nbviewer.ipython.org/github/gerrymanoim/exchange_calendars/blob/ffeca7f01e95f9e09ce98344d053ec25bead105a/docs/tutorials/calendar_methods.ipynb) - a walk through all the methods available to interrogate a calendar.
 
 Hopefully you'll find that exchange calendars has the method you need to get the information you want. If it doesn't, [raise an issue](https://github.com/gerrymanoim/exchange_calendars/issues) and let us know!
 
